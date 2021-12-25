@@ -1,0 +1,223 @@
+head:
+  title: "John Moses' Data Science Portfolio"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m John Moses."
+  subtitle: "Data Scientist | Data Analyst"
+  description: "John is a Data Scientest with 15 years of experience."
+  image:
+    x: "img/showcase/apd_powerBI_app.gif"
+    _2x: "img/showcase/apd_powerBI_app.gif"
+  imageMobile:
+    x: "img/showcase/apd_powerBI_app.gif"
+    _2x: "img/showcase/apd_powerBI_app.gif"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact John"
+    URL: "mailto:jgm@metamoses.net"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/john-moses-359a14115/"
+
+    - icon: "github"
+      URL: "https://github.com/zekePhoenix"
+
+   
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    <strong>I love helping data scientists.</strong> My passion is training. But, when I am not making new courses
+    or building software, I enjoy vacationing with my family and friends. 
+    </p>
+    <p class="lead">
+    <strong>My area of focus</strong> is applying data science to business. 
+    I create value for companies by understanding the financial
+    cost of problems and delivering a return-on-investment with my solutions. 
+    I enjoy learning, working with stakeholders, and making better decisions with data.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com"
+  image:
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "Over 15+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "#"
+
+  items:
+    - title: "Director of Product Engineering & Market Development"
+      company: "Bonney Forge"
+      duration: "Jan 2017 - Aug 2018"
+
+    - title: "Manager of Sales Engineering"
+      company: "Bonney Forge"
+      duration: "Mar 2014 - Jan 2017"
+
+    - title: "Manager of Product Engineering"
+      company: "Bonney Forge"
+      duration: "Nov 2011 - Mar 2014"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Troy University"
+      year: "2007-2009"
+      degree: "Bachelor of Criminal Justice"
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Daily Crime Trends, Atlanta Police Department"
+      description: "This simple application shows daily crime trends from the Atlanta Police Department (Atlanta, GA, USA)"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://zekephoenix.shinyapps.io/AtlantaPoliceCrimeTrends/"
+      image:
+        x: "img/works/app_sales_demand_forecast.jpg"
+        _2x: "img/works/app_sales_demand_forecast.jpg"
+      is_even: true
+
+    - title: "Math Game"
+      description: "I put togheter this simple Math Game for my kids during home school. "
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://zekephoenix.shinyapps.io/Math_Game/"
+      image:
+        x: "img/works/app_cannondale_price_prediction.jpg"
+        _2x: "img/works/app_cannondale_price_prediction.jpg"
+      is_even: false
+      
+    - title: "Atlanta Police Department PowerBI Crime App"
+      description: "Built with PowerBI, this application is a dashboard of public data from APD."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://app.powerbi.com/view?r=eyJrIjoiNzJmM2M4YmUtNTQ2OS00Yjk3LWI0OTItZmRkZjQwNjk1MGJmIiwidCI6ImEyNDE1MmQ4LWM5NTgtNGEwZC1iZDc5LWQ3MWY3MWUxOGU4MiJ9"
+      image:
+        x: "img/works/app_cannondale_price_prediction.jpg"
+        _2x: "img/works/app_cannondale_price_prediction.jpg"
+      is_even: false
+
+    
+
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+  items:
+  
+    - name: "Justin Kurland, PhD"
+      position: "Lead Data Scientist, Northwestern Mutual"
+      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+      image:
+        x: "img/testimonials/justin.jpg"
+        _2x: "img/testimonials/justin.jpg"
+        
+    - name: "Chris Selig"
+      position: "Data Scientist"
+      content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
+      image:
+        x: "img/testimonials/chris.jpg"
+        _2x: "img/testimonials/chris.jpg"
+
+    
+
+    - name: "Mohana Krishna Chittoor"
+      position: "Lead Data Scientist, Money View"
+      content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
+      image:
+        x: "img/testimonials/mohana.jpg"
+        _2x: "img/testimonials/mohana.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact John"
+    
+  image:
+    x: "img/who-am-i/user-picture-2.jpg"
+    _2x: "img/who-am-i/user-picture-2.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:jgm@metamoses.net'
+    
+  phone:
+    title: "Phone Number"
+    number: "678-458-6629"
+  email:
+    title: "Email"
+    email: '<a href="mailto:jgm@metamoses.net">jgm@metamoses.net</a>'
+  address:
+    title: "Address"
+    address: "165 Chandler Way, Fayetteville GA 30215"
+  
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
