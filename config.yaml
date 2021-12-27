@@ -5,9 +5,9 @@ params:
   footer:
     copyright: © John Moses. All rights reserved.
     site_logo:
-      _2x: img/general/business-science-logo.png
+      _2x: img/general/phoenix-analytics-logo.png
       alt: 
-      x: img/general/business-science-logo.png
+      x: img/general/phoenix-analytics-logo.png
   googleAnalyticsID: ''
   logo:
     text1: John
