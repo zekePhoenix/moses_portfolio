@@ -6,13 +6,13 @@ showcase:
   enable: true
   title: "Hello, I’m John Moses."
   subtitle: "Data Scientist | Data Analyst"
-  description: "John is a Data Scientest with 15 years of experience."
+  description: "John is a Data Scientist with 15 years of experience."
   image:
-    x: "img/showcase/apd_powerBI_app.gif"
-    _2x: "img/showcase/apd_powerBI_app.gif"
+    x: "img/showcase/r-showcase (1).gif"
+    _2x: "img/showcase/r-showcase (1).gif"
   imageMobile:
-    x: "img/showcase/apd_powerBI_app.gif"
-    _2x: "img/showcase/apd_powerBI_app.gif"
+    x: "img/showcase/showcase-mobile"
+    _2x: "img/showcase/showcase-mobile"
 
   button:
     icon: "icon-mail-fill"
@@ -34,22 +34,19 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>I love helping data scientists.</strong> My passion is training. But, when I am not making new courses
-    or building software, I enjoy vacationing with my family and friends. 
+    <strong>I love helping people make better deisions using better data.</strong>
     </p>
     <p class="lead">
-    <strong>My area of focus</strong> is applying data science to business. 
-    I create value for companies by understanding the financial
-    cost of problems and delivering a return-on-investment with my solutions. 
-    I enjoy learning, working with stakeholders, and making better decisions with data.
+    <strong>My area of focus</strong> is building data and GIS products to help stakeholders understand key areas of the data, and enable them to make
+    better and informed decisions.
     </p>
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
     URL: "https://www.linkedin.com"
   image:
-    x: "img/who-am-i/user-picture-2.jpg"
-    _2x: "img/who-am-i/user-picture-2.jpg"
+    x: "img/who-am-i/headshot-cropped1-small.jpg"
+    _2x: "img/who-am-i/headshot-cropped1-small.jpg"
 
 # experience
 experience:
@@ -63,20 +60,19 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "#"
-
+    URL: "https://phoneixanalytics.sharepoint.com/:b:/s/work/EQ5KimpOAaVNlz6cAmSFY7MBEWPb-EsFiX6IYkGPAzgZYw?e=g0nizY"
   items:
-    - title: "Director of Product Engineering & Market Development"
-      company: "Bonney Forge"
-      duration: "Jan 2017 - Aug 2018"
+    - title: "Data Scientist"
+      company: "Atlanta Police Department"
+      duration: "Jan 2019 - present"
 
-    - title: "Manager of Sales Engineering"
-      company: "Bonney Forge"
-      duration: "Mar 2014 - Jan 2017"
+    - title: "Senior Crime Analyst"
+      company: "Atlanta Police Department"
+      duration: "Jan 2014 - Jan 2019"
 
-    - title: "Manager of Product Engineering"
-      company: "Bonney Forge"
-      duration: "Nov 2011 - Mar 2014"
+    - title: "Data Scientist / Owner"
+      company: "Phoenix Analytics Inc"
+      duration: "Nov 2015 - present"
 
 # education
 education:
@@ -132,21 +128,10 @@ client_and_work:
         btnText: "Launch Application"
         URL: "https://zekephoenix.shinyapps.io/AtlantaPoliceCrimeTrends/"
       image:
-        x: "img/works/app_sales_demand_forecast.jpg"
-        _2x: "img/works/app_sales_demand_forecast.jpg"
+        x: "img/works/apd-shiny-app.jpg"
+        _2x: "img/works/apd-shiny-app.jpg"
       is_even: true
 
-    - title: "Math Game"
-      description: "I put togheter this simple Math Game for my kids during home school. "
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Launch Application"
-        URL: "https://zekephoenix.shinyapps.io/Math_Game/"
-      image:
-        x: "img/works/app_cannondale_price_prediction.jpg"
-        _2x: "img/works/app_cannondale_price_prediction.jpg"
-      is_even: false
-      
     - title: "Atlanta Police Department PowerBI Crime App"
       description: "Built with PowerBI, this application is a dashboard of public data from APD."
       button:
@@ -154,9 +139,22 @@ client_and_work:
         btnText: "Launch Application"
         URL: "https://app.powerbi.com/view?r=eyJrIjoiNzJmM2M4YmUtNTQ2OS00Yjk3LWI0OTItZmRkZjQwNjk1MGJmIiwidCI6ImEyNDE1MmQ4LWM5NTgtNGEwZC1iZDc5LWQ3MWY3MWUxOGU4MiJ9"
       image:
-        x: "img/works/app_cannondale_price_prediction.jpg"
-        _2x: "img/works/app_cannondale_price_prediction.jpg"
+        x: "img/works/apd-public-data-dashboard.jpg"
+        _2x: "img/works/apd-public-data-dashboard.jpg"
       is_even: false
+      
+    - title: "Proposed Buckhead City Map"
+      description: "A map of the proposed Buckhead City limits, built with ArcGIS Web Application Builder"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://phoenixanalytics.maps.arcgis.com/apps/webappviewer/index.html?id=b5d6ebea9290450491253dccb62f093d"
+      image:
+        x: "img/works/buckhead-city-app.jpg"
+        _2x: "img/works/buckhead-city-app.jpg"
+      is_even: true
+      
+      #
 
     
 
@@ -195,8 +193,8 @@ contact:
   title: "Contact John"
     
   image:
-    x: "img/who-am-i/user-picture-2.jpg"
-    _2x: "img/who-am-i/user-picture-2.jpg"
+    x: "img/who-am-i/headshot-cropped1-small.jpg"
+    _2x: "img/who-am-i/headshot-cropped1-small.jpg"
     
   button:
     icon: "icon-mail-fill"

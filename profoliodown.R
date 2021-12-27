@@ -11,7 +11,9 @@ library(portfoliodown)
 
 new_portfolio_site()
 
-serve_site
+serve_site()
+
+blogdown::stop_server()
 
 #test comment
 
