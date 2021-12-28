@@ -11,8 +11,8 @@ showcase:
     x: "img/showcase/r-showcase (1).gif"
     _2x: "img/showcase/r-showcase (1).gif"
   imageMobile:
-    x: "img/showcase/showcase-mobile"
-    _2x: "img/showcase/showcase-mobile"
+    x: "img/showcase/showcase-mobile.jpg"
+    _2x: "img/showcase/showcase-mobile.jpg"
 
   button:
     icon: "icon-mail-fill"
