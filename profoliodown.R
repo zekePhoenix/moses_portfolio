@@ -17,5 +17,13 @@ blogdown::stop_server()
 
 #test comment
 
+# get testimonial comments from
+# Sheriff Babb
+# DC Schirbaum
+# Shila Hawk
+# Dave Wardell
+# Keith Medows
+# Dr Santos
+
 
 
