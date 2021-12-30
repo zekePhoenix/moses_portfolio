@@ -5,7 +5,7 @@ head:
 showcase:
   enable: true
   title: "Hello, I’m John Moses."
-  subtitle: "Data Scientist | Data Analyst"
+  subtitle: "Data Scientist"
   description: "John is a Data Scientist with 15 years of experience."
   image:
     x: "img/showcase/r-showcase (1).gif"
@@ -153,6 +153,17 @@ client_and_work:
         x: "img/works/buckhead-city-app.jpg"
         _2x: "img/works/buckhead-city-app.jpg"
       is_even: true
+      
+    - title: "Atlanta Police Department Neighborhood Crime Dashboard"
+      description: "Collaberation project with my team at APD, this is an intereactive dashboard map, publicly available, for community members to query crime data for their local neighborhood. Built with R and ArcGIS Dashboard"
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://www.arcgis.com/apps/dashboards/42954b86793343ed9eaeb0a61bb69d01"
+      image:
+        x: "img/works/apd-arcgis-dashboard.jpg"
+        _2x: "img/works/apd-arcgis-dashboard.jpg"
+      is_even: false
       
       #
 
