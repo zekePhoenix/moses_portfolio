@@ -18,12 +18,14 @@ blogdown::stop_server()
 #test comment
 
 # get testimonial comments from
-# Sheriff Babb
-# DC Schirbaum
-# Shila Hawk
-# Dave Wardell
+# XX Sheriff Babb
+# XX Ethon Harper
+# XX DC Schirbaum
+# XX Shila Hawk
+# XX Dave Wardell
 # Keith Medows
-# Dr Santos
+# XX Dr Santos
+# XX Donnie Reece
 
 
 
