@@ -34,7 +34,7 @@ about:
   title: "Who am I?"
   content: 
     <p class="lead">
-    <strong>I love helping people make better deisions using better data.</strong>
+    <strong>I love helping people make better decisions using better data.</strong>
     </p>
     <p class="lead">
     <strong>My area of focus</strong> is building data and GIS products to help stakeholders understand key areas of the data, and enable them to make
@@ -52,7 +52,7 @@ about:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 15+ years of experience working with companies from all over the world. I design & develop data science products to help businesses increase profitability and improve customer experience."
+  description: "Over 15+ years of experience working with data. I design & develop data science products to help businesses increase profitability and improve customer experience."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -160,32 +160,18 @@ client_and_work:
 
 # testimonial
 testimonial:
-  enable: false
+  enable: true
   title: "Testimonials"
   items:
   
-    - name: "Justin Kurland, PhD"
-      position: "Lead Data Scientist, Northwestern Mutual"
-      content: "In less than 6 months after starting my first Business Science Course with Matt I had fully transitioned into a role as a lead data scientist and my life is better for it!"
+    - name: "Randy Ory"
+      position: "Lead Crime Analyst, Georgia Tech University Police Department"
+      content: "John is a master problem solver and is the go-to guy in his department for data analysis. He has been expanding his knowledge base for years, picking up programming knowledge on his own time and continuing to add to his already impressive tool belt, with skills in GIS, crime analysis, R programming, and data science, making himself indispensable to his department, and to the many people who depend on him for timely and accurate information and analysis."
       image:
-        x: "img/testimonials/justin.jpg"
-        _2x: "img/testimonials/justin.jpg"
+        x: "img/testimonials/gaTech-pd.png"
+        _2x: "img/testimonials/gaTech-pd.png"
         
-    - name: "Chris Selig"
-      position: "Data Scientist"
-      content: "Because of all the R courses Matt Dancho has provided, I landed my first Data Scientist role. Setting up shiny dashboards in AWS was extremely helpful during my interview."
-      image:
-        x: "img/testimonials/chris.jpg"
-        _2x: "img/testimonials/chris.jpg"
 
-    
-
-    - name: "Mohana Krishna Chittoor"
-      position: "Lead Data Scientist, Money View"
-      content: "After your entry into my life, I got a 10% pay raise and then after another 6-months of 26%, and in just another 2-months a 40% hike. I can grab a job wherever I want."
-      image:
-        x: "img/testimonials/mohana.jpg"
-        _2x: "img/testimonials/mohana.jpg"
 
 # contact
 contact:
