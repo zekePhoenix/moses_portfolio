@@ -43,7 +43,7 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com"
+    URL: "https://www.linkedin.com/in/john-moses-da"
   image:
     x: "img/who-am-i/headshot-cropped1-small.jpg"
     _2x: "img/who-am-i/headshot-cropped1-small.jpg"
@@ -56,7 +56,7 @@ experience:
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
-    URL: "https://www.linkedin.com/"
+    URL: "https://www.linkedin.com/in/john-moses-da"
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
@@ -181,6 +181,13 @@ testimonial:
       image:
         x: "img/testimonials/gaTech-pd.png"
         _2x: "img/testimonials/gaTech-pd.png"
+        
+    - name: "Donnie Reece"
+      position: "Operations Manager & WebEOC Administrator, Atlanta Fulton County Emergency Management"
+      content: "John is an ideal team member capable of quickly identifying the end goals and steps needed to accomplish them. Additionally, he is a ideal team member. Capable of adapting to new processes and thinking outside to the box to leverage tools in new ways to fill gaps rather than allow the limitations to slow progress."
+      image:
+        x: "img/testimonials/fulton-logo-text-bottom.png"
+        _2x: "img/testimonials/fulton-logo-text-bottom.png"
         
 
 
