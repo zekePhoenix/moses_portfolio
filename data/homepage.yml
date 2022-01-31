@@ -188,12 +188,20 @@ testimonial:
       image:
         x: "img/testimonials/fulton-logo-text-bottom.png"
         _2x: "img/testimonials/fulton-logo-text-bottom.png"
+        
     - name: "Danni Olson"
       position: "Intelligence Technical Specialist, Microsoft"
       content: "John is incredible at understanding data analytics. It is a pleasure to work with him on projects to bring data to life and create reports that allow the City of Atlanta to make Data Driven Decisions quickly. I highly recommend him for any analytics project/role."
       image:
         x: "img/testimonials/microsoft_logo.png"
         _2x: "img/testimonials/microsoft_logo.png"
+        
+    - name: "Shila Hawk, Ph.D."
+      position: "Law Enforcement Coordination (LEC) Specialist, Department of Justice, United States Attorney's Office, Northern District of Georgia"
+      content: "“I have worked with Moses for over a decade on various data acquisition and analyses projects; wherein he always made sure the extractions and programming were clearly defined, executed, and coding understood. He is extremely knowledgeable and thorough, to make sure that clients not only get the products needed, but that appropriate inference can be dawns from the work."
+      image:
+        x: "img/testimonials/USAO.png"
+        _2x: "img/testimonials/USAO.png"
         
 
 
